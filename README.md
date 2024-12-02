@@ -1,6 +1,7 @@
 Pandas Data Analysis - Sales Data
 
 Project Overview
+
 In this project, I use Python's Pandas and Matplotlib libraries to analyze and answer business-related questions based on a year's worth of sales data. The dataset contains hundreds of thousands of transactions from an electronics store, providing details on various aspects such as the month of purchase, product categories, costs, purchase locations, and more. The goal is to extract meaningful insights from this data to support data-driven business decisions.
 
 Steps in the Project
